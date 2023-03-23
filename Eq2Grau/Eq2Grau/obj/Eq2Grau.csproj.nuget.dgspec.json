@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\Eq2Grau.csproj": {}
+    "D:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\Eq2Grau.csproj": {}
   },
   "projects": {
-    "P:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\Eq2Grau.csproj": {
+    "D:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\Eq2Grau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\Eq2Grau.csproj",
+        "projectUniqueName": "D:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\Eq2Grau.csproj",
         "projectName": "Eq2Grau",
-        "projectPath": "P:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\Eq2Grau.csproj",
+        "projectPath": "D:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\Eq2Grau.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "P:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\obj\\",
+        "outputPath": "D:\\universidade\\disciplinas\\4 Desenvolvimento Web\\trabalhosAula\\Eq2Grau\\Eq2Grau\\Eq2Grau\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
